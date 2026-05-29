@@ -1,0 +1,6 @@
+{
+  "name": "Solar Adviser Chatbot",
+  "description": "An intelligent AI-powered solar load calculator and renewable energy recommendation system tailored for Nigerian households.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
